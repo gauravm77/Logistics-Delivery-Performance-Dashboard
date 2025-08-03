@@ -15,6 +15,14 @@
 - March and December see delay spikes due to high volume
 - UPS & FedEx underperform in the South & East regions
 
+## ✅ Recommendations
+
+- 🧭 **Address Validation**: Automate address entry checks to prevent common errors.
+- ⚙️ **SOP Optimization**: Standardize and refine logistics handling processes.
+- 📈 **Monthly SLA Review**: Monitor each carrier’s service level monthly.
+- 🚚 **Carrier Optimization**: Reroute or shift delivery loads from underperforming carriers.
+- 🧮 **Capacity Planning**: Pre-plan staffing and logistics for Q1 & Q4 peaks.
+  
 ## 📂 Folder Contents
 
 - <a href="https://github.com/gauravm77/Logistics-Delivery-Performance-Dashboard/blob/main/Large_Logistics_Delivery_Data.csv.xlsx">Dataset</a>
@@ -30,4 +38,4 @@
 ## 📬 Contact
 
 Created by Gaurav Mahajan | Business & Data Analyst
-
+[linkedin](https://www.linkedin.com/in/gauravmahajan7507/)
