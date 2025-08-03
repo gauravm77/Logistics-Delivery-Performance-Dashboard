@@ -18,9 +18,8 @@
 ## 📂 Folder Contents
 
 - <a href="https://github.com/gauravm77/Logistics-Delivery-Performance-Dashboard/blob/main/Large_Logistics_Delivery_Data.csv.xlsx">Dataset</a>
-- <a href="[https://github.com/gauravm77/Logistics-Delivery-Performance-Dashboard/blob/main/Large_Logistics_Delivery_Data.csv.xlsx](https://github.com/gauravm77/Logistics-Delivery-Performance-Dashboard/blob/main/Logistics%20Performance%20Analysis%20Dashboard.pbix)">Power BI dashboard file</a>
-- `/screenshots`: Dashboard visuals
-- `README.md`: Project description
+- <a href="https://github.com/gauravm77/Logistics-Delivery-Performance-Dashboard/blob/main/Logistics%20Performance%20Analysis%20Dashboard.pbix">Power BI dashboard file</a>
+- <a href="https://github.com/gauravm77/Logistics-Delivery-Performance-Dashboard/blob/main/Screenshot%202025-08-04%20000927.png">Dashboard visuals</a>
 
 ## 💡 Tools Used
 
